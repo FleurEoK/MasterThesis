@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:picsum.photos)",
+      "Bash(curl:*)",
+      "Bash(wget:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)"
+    ],
+    "deny": []
+  }
+}

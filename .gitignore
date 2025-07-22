@@ -209,3 +209,4 @@ __marimo__/
 
 #Large training results files
 aim_base/
+output_dir/
